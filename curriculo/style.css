@@ -1,0 +1,31 @@
+/* Não é necessário definir estilos globais para o corpo e fonte, pois o Bootstrap já faz isso. */
+
+/* Estilos para o cabeçalho usando classes Bootstrap */
+header {
+    background-color: #3680ce;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos para os cabeçalhos de seção usando classes Bootstrap */
+section h2 {
+    font-size: 24px;
+}
+
+/* Estilos para os parágrafos nas seções usando classes Bootstrap */
+section p {
+    font-size: 18px;
+}
+
+/* Estilos para os links nas seções usando classes Bootstrap */
+section a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+/* Estilos para listas usando classes Bootstrap */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
